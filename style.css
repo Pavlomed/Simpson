@@ -6,7 +6,8 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #f7e122;
-    background-image: url(flag.png);
+    background: url(flag.png) no-repeat;
+    background-size: 100%;
 
 }
 
